@@ -21,9 +21,15 @@
 
 ![](https://github.com/Casha-lar/hw6/blob/master/Рисунок5.png)
 
+Слова fight и scruffle являются синонимами и обозначают слово "драться"
+Они оба могут употребляться с дополнением foot
+Слово fight может употребляться с дополнением war, а слово scruffle может употребляться с наречием noise
+
 6) ЗАДАНИЕ 6
 
 ![](https://github.com/Casha-lar/hw6/blob/master/Рисунок6.png)
 
 ![](https://github.com/Casha-lar/hw6/blob/master/Рисунок8.png)
+
+Из списка trends я выбрала слово oversee, что значит "наблюдать". В моем случае не различаются данные в Google Ngrams и BNC. И мы наблюдаем на графике в Google Ngrams так же резкий рост популярности этого слова.
 
