@@ -9,6 +9,6 @@
 
 3) ЗАДАНИЕ 3
 
-![] (https://github.com/Casha-lar/hw6/blob/master/Рисунок3.png)
+![](https://github.com/Casha-lar/hw6/blob/master/Рисунок3.png)
 
 
