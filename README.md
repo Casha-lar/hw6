@@ -17,3 +17,13 @@
 
 ![](https://github.com/Casha-lar/hw6/blob/master/Рисунок4.png)
 
+5) ЗАДАНИЕ 5
+
+![](https://github.com/Casha-lar/hw6/blob/master/Рисунок5.png)
+
+6) ЗАДАНИЕ 6
+
+![](
+
+![](
+
