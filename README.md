@@ -15,3 +15,5 @@
 
 4) ЗАДАНИЕ 4
 
+![](https://github.com/Casha-lar/hw6/blob/master/Рисунок4.png)
+
