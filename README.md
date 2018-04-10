@@ -25,5 +25,5 @@
 
 ![](https://github.com/Casha-lar/hw6/blob/master/Рисунок6.png)
 
-![](
+![](https://github.com/Casha-lar/hw6/blob/master/Рисунок8.png)
 
